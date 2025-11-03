@@ -533,11 +533,7 @@
   }
 ]
   ,
-  "frases": 
-{
-  "versao": "1.2.0",
-  "idioma": "pt-BR",
-  "itens": [
+  "templates_de_frases": [
     {
       "codigos": [
         1
@@ -2909,4 +2905,5 @@
     "CO": "controle oclusal"
   }
 }
+
 }
