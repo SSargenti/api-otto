@@ -2823,9 +2823,7 @@
   }
 }
   ,
-  "siglas": 
-{
-  "Superficies_Dentarias": {
+  "siglas_superficies": {
     "D": "distal",
     "M": "mesial",
     "V": "vestibular",
@@ -2845,7 +2843,7 @@
     "DL": "disto-lingual",
     "DP": "disto-palatino"
   },
-  "Raizes_Canais": {
+  "siglas_raizes": {
     "RM": "raiz mesial",
     "RD": "raiz distal",
     "RP": "raiz palatina",
@@ -2858,7 +2856,7 @@
     "RPAL": "raiz palatina (molares superiores)",
     "DIL": "dilaceração"
   },
-  "Localizacao_Lesoes": {
+  "siglas_lesoes": {
     "PA": "periapical",
     "PM": "pericoronal",
     "IPX": "interproximal",
@@ -2871,7 +2869,7 @@
     "ELP": "espessamento do ligamento periodontal",
     "LD": "lâmina dura"
   },
-  "Planos_Cortes_Tecnicas": {
+  "siglas_planos": {
     "TCFC": "tomografia computadorizada de feixe cônico (cone beam)",
     "CBCT": "tomografia computadorizada de feixe cônico (cone beam)",
     "MPR": "reconstrução multiplanar",
@@ -2889,7 +2887,7 @@
     "DAP": "produto dose-área",
     "S/R": "artefato de streak/ray (faixas radiográficas)"
   },
-  "Estruturas_Anatomicas": {
+  "siglas_anatomia": {
     "ATM": "articulação temporomandibular",
     "CM": "canal mandibular",
     "FM": "forame mentoniano",
@@ -2899,7 +2897,7 @@
     "VAS": "vias aéreas superiores",
     "PE": "processo estilóide"
   },
-  "Outros_Termos": {
+  "siglas_outros": {
     "CD": "controle diagnóstico",
     "MO": "médio-oclusal",
     "CO": "controle oclusal"
@@ -2907,3 +2905,4 @@
 }
 
 }
+
