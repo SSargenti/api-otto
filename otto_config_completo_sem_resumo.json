@@ -1,0 +1,29 @@
+{
+    "modo": "completo_sem_resumo",
+    "fusao_de_achados": true,
+    "resumo_automatico": false,
+    "condensacao_de_frases": false,
+    "omissao_de_frases_complementares": false,
+    "bloco_padrao_final": "integral",
+    "contexto_persistente": false,
+    "formato_de_saida": "A (Clássico)",
+    "linguagem": "Português-BR técnico",
+    "esquema_tríade": "Localização → Achado → Impressão Diagnóstica → Recomendação",
+    "hierarquia_de_fontes": [
+        "regras_coerencia_exame.json",
+        "diagnosticos.json",
+        "frases.json",
+        "guia_unificado.md",
+        "bloco_padrao_final.md"
+    ],
+    "validacao_automatica": {
+        "resolver_codigos_via_diagnosticos": true,
+        "rejeitar_sem_E": true,
+        "frases_obrigatorias": [
+            "Na panorâmica, a avaliação radicular tem caráter geral...",
+            "O exame radiográfico é complementar à avaliação clínica...",
+            "Sugere-se acompanhamento clínico-radiográfico periódico..."
+        ]
+    },
+    "comentario": "Configuração Otto — Modo Completo Sem Resumo. Permite fusões clínicas coerentes, proíbe resumos e garante bloco padrão integral."
+}

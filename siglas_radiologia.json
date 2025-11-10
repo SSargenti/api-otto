@@ -1,0 +1,81 @@
+{
+  "Superficies_Dentarias": {
+    "D": "distal",
+    "M": "mesial",
+    "V": "vestibular",
+    "B": "bucal",
+    "P": "palatino (maxila)",
+    "L": "lingual (mandíbula)",
+    "O": "oclusal",
+    "I": "incisal",
+    "C": "cervical",
+    "A": "apical",
+    "MD": "mésio-distal",
+    "VL": "vestíbulo-lingual (ou bucolingual)",
+    "VP": "vestíbulo-palatino (maxila)",
+    "MV": "mésio-vestibular (ou mésio-bucal)",
+    "ML": "mésio-lingual",
+    "DV": "disto-vestibular",
+    "DL": "disto-lingual",
+    "DP": "disto-palatino"
+  },
+  "Raizes_Canais": {
+    "RM": "raiz mesial",
+    "RD": "raiz distal",
+    "RP": "raiz palatina",
+    "RV": "raiz vestibular",
+    "RL": "raiz lingual",
+    "CMV": "canal mésio-vestibular",
+    "CML": "canal mésio-lingual",
+    "CDV": "canal disto-vestibular",
+    "CDL": "canal disto-lingual",
+    "RPAL": "raiz palatina (molares superiores)",
+    "DIL": "dilaceração"
+  },
+  "Localizacao_Lesoes": {
+    "PA": "periapical",
+    "PM": "pericoronal",
+    "IPX": "interproximal",
+    "LRL": "lesão radiolúcida",
+    "LRO": "lesão radiopaca",
+    "MRL": "lesão mista radiolúcida-radiopaca",
+    "U": "unilocular",
+    "MU": "multilocular",
+    "BCO": "base cortical óssea (corticais)",
+    "ELP": "espessamento do ligamento periodontal",
+    "LD": "lâmina dura"
+  },
+  "Planos_Cortes_Tecnicas": {
+    "TCFC": "tomografia computadorizada de feixe cônico (cone beam)",
+    "CBCT": "tomografia computadorizada de feixe cônico (cone beam)",
+    "MPR": "reconstrução multiplanar",
+    "AX": "plano axial",
+    "CO": "plano coronal",
+    "SG": "plano sagital",
+    "CPR": "curva panorâmica reconstruída",
+    "MIP": "projeção de intensidade máxima",
+    "VR": "renderização volumétrica (volume rendering)",
+    "FOV": "campo de visão",
+    "vox": "voxel (elemento volumétrico)",
+    "kVp": "quilovoltagem de pico",
+    "mA": "miliamperagem",
+    "s": "tempo de exposição (segundos)",
+    "DAP": "produto dose-área",
+    "S/R": "artefato de streak/ray (faixas radiográficas)"
+  },
+  "Estruturas_Anatomicas": {
+    "ATM": "articulação temporomandibular",
+    "CM": "canal mandibular",
+    "FM": "forame mentoniano",
+    "FN": "forame nasopalatino (ou incisivo)",
+    "SM": "seio maxilar",
+    "SN": "septo nasal",
+    "VAS": "vias aéreas superiores",
+    "PE": "processo estilóide"
+  },
+  "Outros_Termos": {
+    "CD": "controle diagnóstico",
+    "MO": "médio-oclusal",
+    "CO": "controle oclusal"
+  }
+}
